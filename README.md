@@ -2,10 +2,11 @@
 
 A simple and sleek frontend for VidSrc and similar services that provide embedded movies and TV shows. Easily search, browse, and watch content with a user-friendly interface.
 
-## Store Listing
+## Download
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vijayyuvi.embedin)
-[![Install via AltStore](https://img.shields.io/badge/AltStore-4CAF50?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/vjdev1212/embedin/refs/heads/main/sources/sidestore-source.json)
-[![Install via SideStore](https://img.shields.io/badge/SideStore-A020F0?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/vjdev1212/embedin/refs/heads/main/sources/sidestore-source.json)
+[![Install via AltStore](https://img.shields.io/badge/AltStore-4CAF50?style=for-the-badge&logo=apple&logoColor=white)](https://intradeus.github.io/http-protocol-redirector/?r=altstore://source?url=https://raw.githubusercontent.com/vjdev1212/embedin/refs/heads/main/sources/sidestore-source.json)
+[![Install via SideStore](https://img.shields.io/badge/SideStore-A020F0?style=for-the-badge&logo=apple&logoColor=white)](https://intradeus.github.io/http-protocol-redirector/?r=sidestore://source?url=https://raw.githubusercontent.com/vjdev1212/embedin/refs/heads/main/sources/sidestore-source.json)
+[![Add Source URL](https://img.shields.io/badge/Add_Source_URL-0078D4?style=for-the-badge&logo=link&logoColor=white)](https://raw.githubusercontent.com/vjdev1212/embedin/refs/heads/main/sources/sidestore-source.json)
 
 ## Framework
 
